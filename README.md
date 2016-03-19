@@ -8,11 +8,15 @@
 
 * `crd` aliases `crystal deps`
 
+* `crdo` aliases `crystal docs`
+
 * `cre` aliases `crystal eval`
 
-* `crt` aliases `crystal tool`
+* `crs` aliases `crystal spec`
 
-* `crtb` aliases `crystal tool browser`
+* `crr` aliases `crystal run`
+
+* `crt` aliases `crystal tool`
 
 * `crtc` aliases `crystal tool context`
 
