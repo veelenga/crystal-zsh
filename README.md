@@ -10,7 +10,11 @@
 
 * `crdo` aliases `crystal docs`
 
+* `cren` aliases `crystal env`
+
 * `cre` aliases `crystal eval`
+
+* `crp` aliases `crystal play`
 
 * `crs` aliases `crystal spec`
 
