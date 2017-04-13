@@ -34,6 +34,9 @@
 
 * `crtt` aliases `crystal tool types`
 
+**Note:** you may also want to use [autocompletions for Crystal](https://github.com/crystal-lang/crystal/blob/master/etc/completion.zsh).
+It is installed automatically with Crystal distribution.
+
 ## Installation
 
 ### [Antigen](https://github.com/zsh-users/antigen)
