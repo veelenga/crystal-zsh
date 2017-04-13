@@ -50,7 +50,7 @@ Add `antigen bundle veelenga/crystal-zsh` to your `.zshrc` with your other bundl
   git clone https://github.com/veelenga/crystal-zsh.git ~/.oh-my-zsh/custom/plugins/crystal
   ```
 
-1. Add crystal to the plugins line of your `.zshrc` file (e.g. `plugins=(rails git crystal)`)
+2. Add crystal to the plugins line of your `.zshrc` file (e.g. `plugins=(rails git crystal)`)
 
 ### [Zgen](https://github.com/tarjoilija/zgen)
 
