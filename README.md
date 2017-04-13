@@ -4,9 +4,9 @@
 
 * `cri` aliases `crystal init`
 
-* `crb` aliases `crystal build` (deprecated, use compile instead)
+* `crb` aliases `crystal build`
 
-* `crc` aliases `crystal compile`
+* `crc` aliases `crystal compile` (deprecated, use build instead)
 
 * `crd` aliases `crystal deps`
 
