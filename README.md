@@ -6,15 +6,13 @@
 
 * `crb` aliases `crystal build`
 
-* `crc` aliases `crystal compile` (deprecated, use build instead)
-
 * `crd` aliases `crystal deps`
 
 * `crdo` aliases `crystal docs`
 
 * `cren` aliases `crystal env`
 
-* `cre` aliases `crystal eval`
+* `crev` aliases `crystal eval`
 
 * `crp` aliases `crystal play`
 

@@ -9,7 +9,6 @@ function _crystal_command () {
 alias crystal='_crystal_command'
 
 alias cr='crystal'
-compdef cr='crystal'
 
 alias cri='crystal init'
 compdef _crystal cri='crystal init'
