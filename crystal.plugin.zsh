@@ -16,9 +16,6 @@ compdef _crystal cri='crystal init'
 alias crb='crystal build'
 compdef _crystal crb='crystal build'
 
-alias crc='crystal compile'
-compdef _crystal crc='crystal compile'
-
 alias crd='crystal deps'
 compdef _crystal crd='crystal deps'
 

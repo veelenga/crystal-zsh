@@ -12,7 +12,7 @@
 
 * `cren` aliases `crystal env`
 
-* `crev` aliases `crystal eval`
+* `cre` aliases `crystal eval`
 
 * `crp` aliases `crystal play`
 
